@@ -151,6 +151,7 @@ See the [LICENSE](https://github.com/rcnrqvet/staffhl/blob/main/LICENSE) file fo
 ## 👤 Author
 
 [rcnrqvet](https://github.com/rcnrqvet)
+-
 [Staff Highlight System for FiveM](https://github.com/rcnrqvet/staffhl)
 
 ---
