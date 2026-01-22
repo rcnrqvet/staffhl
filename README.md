@@ -144,14 +144,14 @@ This resource is released under a custom license.
 - May not be reuploaded as your own.
 - May not remove credits.
 
-See the (LICENSE)[https://github.com/rcnrqvet/staffhl/blob/main/LICENSE] file for full terms.
+See the [LICENSE](https://github.com/rcnrqvet/staffhl/blob/main/LICENSE) file for full terms.
 
 ---
 
 ## 👤 Author
 
-(rcnrqvet)[https://github.com/rcnrqvet}
-(Staff Highlight System for FiveM)[https://github.com/rcnrqvet/staffhl]
+[rcnrqvet](https://github.com/rcnrqvet)
+[Staff Highlight System for FiveM](https://github.com/rcnrqvet/staffhl)
 
 ---
 
